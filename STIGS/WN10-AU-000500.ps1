@@ -20,9 +20,8 @@
     PowerShell Ver. : 5.1.19041.6328
 
 .USAGE
-    Put any usage instructions here.
     Example syntax:
-    PS C:\> .\__remediation_template(STIG-ID-WN10-AU-000500).ps1 
+    PS C:\> .\STIG-ID-WN10-AU-000500.ps1 
 #>
 
 # Set MaxSize value (in KB) - 0x8000 = 32768 KB = 32 MB
