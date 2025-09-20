@@ -1,6 +1,6 @@
 <#
 .SYNOPSIS
-    Configures Windows 10 to automatically deny elevation requests for standard users.
+    This PowerShell script enforces UAC to deny standard user elevation, ensuring only admins perform privileged tasks and reducing credential theft.
 
 .NOTES
     Author          : Nadezna Morris
