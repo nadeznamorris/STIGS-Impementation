@@ -39,10 +39,11 @@ STIGS/
 
 ## 🔒 Implemented STIGs
 
-- [WN10-AU-000500](https://github.com/nadeznamorris/STIGS-Impementation/blob/main/STIGS/WN10-AU-000500.ps1) : The Application event log size must be configured to 32768 KB or greater
-- [WN10-CC-000145](https://github.com/nadeznamorris/STIGS-Impementation/blob/main/STIGS/WN10-CC-000145.ps1) : Users must be prompted for a password on resume from sleep (on battery)
-- [WN10-CC-000185](https://github.com/nadeznamorris/STIGS-Impementation/blob/main/STIGS/WN10-CC-000185.ps1) : The default autorun behavior must be configured to prevent autorun commands
-- [WN10-CC-000310](https://github.com/nadeznamorris/STIGS-Impementation/blob/main/STIGS/WN10-CC-000310.ps1) : Users must be prevented from changing installation options
+- [WN10-AU-000500](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS/WN10-AU-000500) : The Application event log size must be configured to 32768 KB or greater
+- [WN10-CC-000145](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS/WN10-CC-000145) : Users must be prompted for a password on resume from sleep (on battery)
+- [WN10-CC-000185](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS/WN10-CC-000185) : The default autorun behavior must be configured to prevent autorun commands
+- [WN10-CC-000310](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS/WN10-CC-000310) : Users must be prevented from changing installation options
+- [WN10-SO-000255](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS/STIG%20WN10-SO-000255) : User Account Control must automatically deny elevation requests for standard users
 - WN10-UR-000070`: Deny access to this computer from the network
 
 *(More STIGs will be added as I continue the project.)*
